@@ -1,0 +1,9 @@
+body {
+    background: black;
+    color: white;
+}
+
+.dark-mode {
+    color: black;
+    background: white;
+}

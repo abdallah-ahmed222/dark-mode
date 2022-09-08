@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div p{
+    text-align: center;
+}
+div {
+    padding: 20px;
+    width: 70%;
+    margin: 10px auto;
+}
